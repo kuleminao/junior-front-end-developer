@@ -71,7 +71,7 @@ p {
   .project-info {
     text-align: center;
   }
-  .project-info button {
+  .project-info a {
     width: 90%;
   }
   h1 {
