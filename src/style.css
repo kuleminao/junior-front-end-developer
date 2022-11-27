@@ -66,3 +66,18 @@ p {
 .btn-red:hover {
   background: var(--primary-color);
 }
+
+@media (max-width: 576px) {
+  .project-info {
+    text-align: center;
+  }
+  .project-info button {
+    width: 90%;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}
